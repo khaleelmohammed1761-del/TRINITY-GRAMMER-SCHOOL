@@ -1,0 +1,6 @@
+{
+  "name": "Trinity Grammar School",
+  "description": "State Syllabus school companion app for Trinity Grammar School. Features direct class selection from Nursery to 10th Class, daily homework tracker across English, Math, Science, Social Studies, Hindi and Computer, school notices, class timetables, study materials with document viewer, assignment deadline tracking, exam schedules, and teacher management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

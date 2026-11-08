@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trinity Grammar School</string>
+    <string name="school_name">Trinity Grammar School</string>
+    <string name="school_motto">Knowledge • Character • Excellence</string>
+    <string name="welcome_message">Welcome to Trinity Grammar School</string>
+    <string name="school_established">State Syllabus School • Recognized by State Board (SSC)</string>
+    <string name="school_board">State Syllabus School</string>
+    <string name="school_contact_phone">+91 (040) 2345-6789</string>
+    <string name="school_contact_email">info@trinitygrammar.edu.in</string>
+    <string name="school_address">Campus Road, Jubilee Hills, Hyderabad - 500033</string>
+</resources>
